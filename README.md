@@ -1,4 +1,3 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piat0002&show_icons=true&theme=dark&locale=fr" alt="piat0002" /></p>
 <img src="https://raw.githubusercontent.com/piat0002/piat0002/output/snake.svg" alt="Snake animation" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piat0002&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="piat0002" /></p>
